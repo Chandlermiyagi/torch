@@ -20,22 +20,21 @@ body {
 }
 
 #pic {
-    display: flex;
-    align: center;
-    padding: 0px;
+    display: center;
+    text-align: center;
 
 }
 
 #fttorch {
     width: 15%;
     align: center;
-    padding: 0px;
+    padding: 5px;
 }
 
 
 header {
     color: white;
-    background-image: var (--cor05)
+    background-image: var(--cor05)
     padding: 0px;
 }
 
